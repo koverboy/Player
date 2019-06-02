@@ -1,0 +1,26 @@
+#canvas{
+    margin: 30px auto;
+    display: block;
+    transition: 0.3s all ease;
+}
+
+.eventsPull{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    border: black solid;
+}
+button {
+    display: inline-block;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    border: 2px solid;
+    border-radius: 1px;
+    transition: 0.2s;
+}
+button:hover { background: red; }
+button:active { background: white; }
