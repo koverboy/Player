@@ -1,2 +1,2 @@
 # Player
-https://koverboy/github.io/Player
+https://koverboy.github.io/Player
