@@ -1,2 +1,2 @@
 # Player
-http://koverboy.github.io/Player
+https://koverboy.github.io/Player/blob/master/index.html/
